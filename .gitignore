@@ -13,6 +13,8 @@
 CMakeLists.txt.user
 CMakeLists_modified.txt
 
+Datasets/
+
 Examples/RGB-D/rgbd_tum
 Examples/RGB-D/rgbd_realsense_D435i
 
@@ -94,3 +96,4 @@ my_settings.txt
 borrar/*
 
 */ExecMean.txt
+log.*
